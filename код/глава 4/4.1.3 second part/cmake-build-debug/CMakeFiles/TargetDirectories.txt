@@ -1,0 +1,3 @@
+G:/4.1.3 second part/cmake-build-debug/CMakeFiles/untitled1.dir
+G:/4.1.3 second part/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/4.1.3 second part/cmake-build-debug/CMakeFiles/rebuild_cache.dir

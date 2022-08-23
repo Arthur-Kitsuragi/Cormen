@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/4.1.3 second part/main.cpp
+iostream
+-
+chrono
+-
+
+G:/4.1.3 second part/main1.cpp
+iostream
+-
+chrono
+-
+
